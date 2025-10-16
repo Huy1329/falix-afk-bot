@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer');
 
 function startBot() {
   const bot = mineflayer.createBot({
-    host: 'huymcchill.falixsrv.me', // IP server Falix
+    host: 'xenonmcvn.falixsrv.me', // IP server Falix
     port: 27442,            // cổng (thường giữ nguyên)
     username: 'AFK_Bot',    // tên bot (nếu server crack)
     version: '1.21.4'       // phiên bản Minecraft
