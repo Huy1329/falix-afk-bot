@@ -10,7 +10,7 @@ function startBot() {
 
   bot.on('spawn', () => {
     console.log('✅ Bot AFK đã vào server thành công!');
-    bot.chat('Bot AFK đang giữ server online 24/7!');
+    //bot.chat('Bot AFK đang giữ server online 24/7!');
   });
 
   bot.on('end', () => {
