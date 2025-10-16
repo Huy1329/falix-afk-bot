@@ -5,7 +5,7 @@ function startBot() {
     host: 'huymcchill.falixsrv.me', // IP server Falix
     port: 27442,            // cổng (thường giữ nguyên)
     username: 'AFK_Bot',    // tên bot (nếu server crack)
-    version: '1.21.1'       // phiên bản Minecraft
+    version: '1.21.8'       // phiên bản Minecraft
   });
 
   bot.on('spawn', () => {
